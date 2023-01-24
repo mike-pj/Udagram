@@ -50,5 +50,8 @@ Add your own domain name and have it point to the running services (try adding a
 ### Link to the AWS Elastic Beanstalk:
 http://udagram-image-filter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/123DE/production/_128381747_gettyimages-1246463835.jpg
 
+### Link to the GitHub repository:
+https://github.com/mike-pj/udagram-image-filter
+
 
 
